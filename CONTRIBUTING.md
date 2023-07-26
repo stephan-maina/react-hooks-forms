@@ -1,39 +1,34 @@
-# Contributing to Learn.co Curriculum
+# Contributing
 
-We're really excited that you're about to contribute to the
-[open curriculum](https://learn.co/content-license) on
-[Learn.co](https://learn.co). If this is your first time contributing, please
-continue reading to learn how to make the most meaningful and useful impact
-possible.
+Thank you for considering contributing to the "Controlled Form Component" project! We welcome contributions from the community to improve the component and add new features.
 
-## Raising an Issue to Encourage a Contribution
+# To contribute, please follow these guidelines:
 
-If you notice a problem with the curriculum that you believe needs improvement
-but you're unable to make the change yourself, you should raise a Github issue
-containing a clear description of the problem. Include relevant snippets of
-the content and/or screenshots if applicable. Curriculum owners regularly review
-issue lists and your issue will be prioritized and addressed as appropriate.
+* Fork the repository on GitHub.
 
-## Submitting a Pull Request to Suggest an Improvement
+* Clone your forked repository to your local machine.
 
-If you see an opportunity for improvement and can make the change yourself go
-ahead and use a typical git workflow to make it happen:
+* Create a new branch for your feature or bug fix:
 
-- Fork this curriculum repository
-- Make the change on your fork, with descriptive commits in the standard format
-- Open a Pull Request against this repo
+bash
+Copy code
+git checkout -b feature/your-feature-name
+Make your changes and commit them:
 
-A curriculum owner will review your change and approve or comment on it in due
-course.
+bash
+Copy code
+git add .
+git commit -m "Add your commit message here"
+Push your changes to your forked repository:
 
-## Why Contribute?
+bash
+Copy code
+git push origin feature/your-feature-name
+Open a pull request to the original repository's main branch.
 
-Curriculum on Learn is publicly and freely available under Learn's
-[Educational Content License](https://learn.co/content-license). By embracing an
-open-source contribution model, our goal is for the curriculum on Learn to
-become, in time, the best educational content the world has ever seen.
+Your pull request will be reviewed, and any feedback will be provided.
 
-We need help from the community of Learners to maintain and improve the
-educational content. Everything from fixing typos, to correcting out-dated
-information, to improving exposition, to adding better examples, to fixing
-tests—all contributions to making the curriculum more effective are welcome.
+Please ensure your contributions adhere to the # Code of Conduct #.
+
+By contributing to the "Controlled Form Component" project, you agree that your contributions will be licensed under the MIT License.
+
